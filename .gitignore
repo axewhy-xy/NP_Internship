@@ -1,0 +1,18 @@
+# weights
+*.h5
+*.pt
+*.ckpt
+*.weights
+*.ipynb
+
+# logs
+*.log
+
+# media files
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# pycache
+__pycache__/
